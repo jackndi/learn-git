@@ -8,7 +8,7 @@ def is_even(number):
     return True if number % 2 == 0 else False
 
 
-def is_odd_shshs(number):
+def is_odd(number):
     """ check is the number is odd"""
     return False if number % 2 == 0 else True
 
@@ -21,5 +21,5 @@ if __name__ == "__main__":
     print("4 ", is_even(4))
 
     # test the is_odd
-    print("1 ", is_odd_shshs(1))
-    print("4 ", is_odd_shshs(4))
+    print("1 ", is_odd(1))
+    print("4 ", is_odd(4))
