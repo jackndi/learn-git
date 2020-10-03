@@ -13,6 +13,11 @@ git commit -m "message "
 # list the branches
 git branch
 
+# marge branch changes into current branch 
+git merge <other_branch_name>
+
+
+
 # create a new branch 
 git checkout -b <branch-name>
 
