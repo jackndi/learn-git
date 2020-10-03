@@ -2,3 +2,15 @@
 git init
 
 # git status
+git status
+
+#  add files
+git add <files>
+
+# commit changes
+git commit -m "message "
+
+
+
+
+
