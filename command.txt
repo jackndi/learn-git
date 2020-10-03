@@ -1,0 +1,4 @@
+# to initialize git
+git init
+
+# git status
